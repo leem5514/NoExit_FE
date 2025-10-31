@@ -124,54 +124,21 @@
 <div align=left>	
 
 
-## 📌 주요 기능
-<div align="left">
-<p>
-  <img src="https://img.shields.io/badge/Node.js-LTS-339933?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vuetify-3-1867C0?logo=vuetify&logoColor=white">
-</p>
-
+## 📌 실행 방법
+<div align="left"> <p> <img src="https://img.shields.io/badge/Node.js-LTS-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Vuetify-3-1867C0?logo=vuetify&logoColor=white"> </p>
 
 1️⃣ 사전 준비: Node.js LTS, npm 설치
 
-
 2️⃣ 의존성 설치: 프로젝트(또는 frontend) 디렉터리에서 실행
-npm install
-
+<code>npm install</code>
 
 3️⃣ 개발 서버 실행
-npm run serve → 기본 주소 http://localhost:8080
-
+<code>npm run serve</code> → 기본 주소 http://localhost:8080
 
 4️⃣ 프로덕션 빌드
-npm run build → dist 폴더 생성
+<code>npm run build</code> → dist 폴더 생성
 
-
-</div>
-<br/>
-<details>
-  <summary><b>🌐 환경 변수 (.env)</b></summary>
-  <br/>
-  <table>
-    <tr>
-      <th>Key</th><th>예시</th><th>설명</th>
-    </tr>
-    <tr>
-      <td><code>VUE_APP_API_BASE_URL</code></td>
-      <td>http://localhost:8080</td>
-      <td>백엔드 API 기본 URL</td>
-    </tr>
-    <tr>
-      <td><code>VUE_APP_SOCKET_URL</code></td>
-      <td>http://localhost:8080</td>
-      <td>실시간(Socket) 서버 URL</td>
-    </tr>
-  </table>
-  <br/>
-  파일 위치: 프로젝트 루트의 <code>.env</code> 또는 <code>.env.development.local</code>
-</details>
-<br/>
+</div> <br/> <details> <summary><b>🌐 환경 변수 (.env)</b></summary> <br/> <table> <tr> <th>Key</th><th>예시</th><th>설명</th> </tr> <tr> <td><code>VUE_APP_API_BASE_URL</code></td> <td>http://localhost:8080</td> <td>백엔드 API 기본 URL</td> </tr> <tr> <td><code>VUE_APP_SOCKET_URL</code></td> <td>http://localhost:8080</td> <td>실시간(Socket) 서버 URL</td> </tr> </table> <br/> 파일 위치: 프로젝트 루트의 <code>.env</code> 또는 <code>.env.development.local</code> </details>
 
 
 ## ✨ 기능 테스트 및 시연
