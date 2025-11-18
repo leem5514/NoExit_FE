@@ -109,7 +109,11 @@
 <br/>
 
 ## 📝 요구사항정의서
-
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/97c3ce10-19d1-480c-9cdb-88e981602e88"
+  
+  </p></br>
+  
 
 [📝 요구사항 명세서 상세보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?gid=566809607#gid=566809607)
 
